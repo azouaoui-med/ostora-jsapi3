@@ -1,9 +1,9 @@
 # Ostora
-Ostora is a responsive and configurable template for building web mapping applications with [Arcgis api for javascript 3.x](https://developers.arcgis.com/javascript/3/)
+Ostora is a responsive and configurable template for building web mapping applications, this version is built with the [Arcgis api for javascript 3.x](https://developers.arcgis.com/javascript/3/)
 
 This template serves for anyone looking to get up and running with arcgis api for javascript fast.  
 
-You can find a version built with [Openlayers](http://openlayers.org/) in [here](https://github.com/azouaoui-med/ostora-ol-reqjs)
+You can find a version built with [Arcgis api for javascript 4.x](https://developers.arcgis.com/javascript) in [here](https://github.com/azouaoui-med/ostora-jsapi4)
 
 ## Demo
 [Live preview](https://azouaoui-med.github.io/ostora-jsapi3/src/)
@@ -36,7 +36,7 @@ Server runs on http://localhost:3000
 *   Basemap Gallery
 *   Legend
 *   Layer list
-*   Coordinate conversion
+*   Measurement
 
 
 ## Resources
@@ -49,4 +49,4 @@ Server runs on http://localhost:3000
 *   [Themify Icons ](https://themify.me/themify-icons)
 
 ## License
-This code is released under the [MIT](https://github.com/azouaoui-med/ostora-jsapi4/blob/gh-pages/LICENSE) license.
+This code is released under the [MIT](https://github.com/azouaoui-med/ostora-jsapi3/blob/gh-pages/LICENSE) license.
